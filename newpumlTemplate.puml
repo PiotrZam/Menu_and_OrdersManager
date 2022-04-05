@@ -1,0 +1,9 @@
+@startuml
+
+class Example{
+ public void foo(){
+    
+}
+}
+
+@enduml

@@ -1,0 +1,10 @@
+DRINK,water,100,false
+
+SIDE,fried bread,250
+
+SIDE,potato fries,350
+
+PIZZA,Margarita,450,[Topping: chicken, Topping: cheese]
+
+DRINK,wine,450,true
+
